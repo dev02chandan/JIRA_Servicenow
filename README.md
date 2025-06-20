@@ -2,6 +2,9 @@
 
 ## 📌 Overview
 
+<img width="1327" alt="image" src="https://github.com/user-attachments/assets/30350665-3e44-43d4-ac50-f69ef8f7f683" />
+
+
 This project automates the triaging of ServiceNow tickets using unsupervised clustering (HDBSCAN) combined with OpenAI language models. Clustered tickets are automatically converted into structured JIRA Issues and Sub-Tasks, streamlining IT operations and improving response efficiency.
 
 ---
